@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello Android!!");
         System.out.println("淺野湧悟です。");
         System.out.println("岡田健伸です。");
+        System.out.println("吉村優佑です。");
     }
 }
