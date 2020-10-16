@@ -11,5 +11,6 @@ public class Main {
         System.out.println("吉村優佑です。");
         System.out.println("奥田菜々子です。");
         System.out.println("安田茉です。");
+        System.out.println("鳥居楓です。");
     }
 }
